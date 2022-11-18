@@ -1,0 +1,100 @@
+-- Logs begin at Sun 2022-11-06 18:33:07 CET, end at Tue 2022-11-15 10:19:53 CET. --
+Nov 06 18:33:07 gmum-gw systemd[3294200]: Reached target Paths.
+Nov 06 18:33:07 gmum-gw systemd[3294200]: Reached target Timers.
+Nov 06 18:33:07 gmum-gw systemd[3294200]: Starting D-Bus User Message Bus Socket.
+Nov 06 18:33:07 gmum-gw systemd[3294200]: Listening on GnuPG network certificate management daemon.
+Nov 06 18:33:07 gmum-gw systemd[3294200]: Listening on GnuPG cryptographic agent and passphrase cache (access for web browsers).
+Nov 06 18:33:07 gmum-gw systemd[3294200]: Listening on GnuPG cryptographic agent and passphrase cache (restricted).
+Nov 06 18:33:07 gmum-gw systemd[3294200]: Listening on GnuPG cryptographic agent (ssh-agent emulation).
+Nov 06 18:33:07 gmum-gw systemd[3294200]: Listening on GnuPG cryptographic agent and passphrase cache.
+Nov 06 18:33:07 gmum-gw systemd[3294200]: Listening on debconf communication socket.
+Nov 06 18:33:07 gmum-gw systemd[3294200]: Listening on D-Bus User Message Bus Socket.
+Nov 06 18:33:07 gmum-gw systemd[3294200]: Reached target Sockets.
+Nov 06 18:33:07 gmum-gw systemd[3294200]: Reached target Basic System.
+Nov 06 18:33:07 gmum-gw systemd[3294200]: Reached target Main User Target.
+Nov 06 18:33:07 gmum-gw systemd[3294200]: Startup finished in 107ms.
+Nov 06 19:16:03 gmum-gw systemd[3294200]: run-user-464.mount: Succeeded.
+Nov 06 19:56:31 gmum-gw systemd[3294200]: swap.img.swap: Succeeded.
+Nov 06 20:12:29 gmum-gw systemd[3294200]: run-user-0.mount: Succeeded.
+Nov 06 20:12:32 gmum-gw systemd[3294200]: run-user-501.mount: Succeeded.
+Nov 06 20:13:39 gmum-gw systemd[3294200]: run-user-0.mount: Succeeded.
+Nov 06 20:32:27 gmum-gw systemd[3294200]: run-user-20655.mount: Succeeded.
+Nov 06 20:58:57 gmum-gw systemd[3294200]: run-user-44079.mount: Succeeded.
+Nov 06 21:31:04 gmum-gw systemd[3294200]: run-user-710.mount: Succeeded.
+Nov 06 21:50:03 gmum-gw sshd[3855027]: Received disconnect from 10.249.3.6 port 65050:11: disconnected by user
+Nov 06 21:50:03 gmum-gw sshd[3855027]: Disconnected from user z1173028 10.249.3.6 port 65050
+Nov 06 22:57:37 gmum-gw systemd[3294200]: run-user-44079.mount: Succeeded.
+Nov 06 23:33:45 gmum-gw systemd[3294200]: Stopped target Main User Target.
+Nov 06 23:33:45 gmum-gw systemd[3294200]: Stopped target Basic System.
+Nov 06 23:33:45 gmum-gw systemd[3294200]: Stopped target Paths.
+Nov 06 23:33:45 gmum-gw systemd[3294200]: Stopped target Sockets.
+Nov 06 23:33:45 gmum-gw systemd[3294200]: Stopped target Timers.
+Nov 06 23:33:45 gmum-gw systemd[3294200]: dbus.socket: Succeeded.
+Nov 06 23:33:45 gmum-gw systemd[3294200]: Closed D-Bus User Message Bus Socket.
+Nov 06 23:33:45 gmum-gw systemd[3294200]: dirmngr.socket: Succeeded.
+Nov 06 23:33:45 gmum-gw systemd[3294200]: Closed GnuPG network certificate management daemon.
+Nov 06 23:33:45 gmum-gw systemd[3294200]: gpg-agent-browser.socket: Succeeded.
+Nov 06 23:33:45 gmum-gw systemd[3294200]: Closed GnuPG cryptographic agent and passphrase cache (access for web browsers).
+Nov 06 23:33:45 gmum-gw systemd[3294200]: gpg-agent-extra.socket: Succeeded.
+Nov 06 23:33:45 gmum-gw systemd[3294200]: Closed GnuPG cryptographic agent and passphrase cache (restricted).
+Nov 06 23:33:45 gmum-gw systemd[3294200]: gpg-agent-ssh.socket: Succeeded.
+Nov 06 23:33:45 gmum-gw systemd[3294200]: Closed GnuPG cryptographic agent (ssh-agent emulation).
+Nov 06 23:33:45 gmum-gw systemd[3294200]: gpg-agent.socket: Succeeded.
+Nov 06 23:33:45 gmum-gw systemd[3294200]: Closed GnuPG cryptographic agent and passphrase cache.
+Nov 06 23:33:45 gmum-gw systemd[3294200]: pk-debconf-helper.socket: Succeeded.
+Nov 06 23:33:45 gmum-gw systemd[3294200]: Closed debconf communication socket.
+Nov 06 23:33:45 gmum-gw systemd[3294200]: Reached target Shutdown.
+Nov 06 23:33:45 gmum-gw systemd[3294200]: systemd-exit.service: Succeeded.
+Nov 06 23:33:45 gmum-gw systemd[3294200]: Finished Exit the Session.
+Nov 06 23:33:45 gmum-gw systemd[3294200]: Reached target Exit the Session.
+Nov 07 18:06:53 gmum-gw systemd[1815630]: Reached target Paths.
+Nov 07 18:06:53 gmum-gw systemd[1815630]: Reached target Timers.
+Nov 07 18:06:53 gmum-gw systemd[1815630]: Starting D-Bus User Message Bus Socket.
+Nov 07 18:06:53 gmum-gw systemd[1815630]: Listening on GnuPG network certificate management daemon.
+Nov 07 18:06:53 gmum-gw systemd[1815630]: Listening on GnuPG cryptographic agent and passphrase cache (access for web browsers).
+Nov 07 18:06:53 gmum-gw systemd[1815630]: Listening on GnuPG cryptographic agent and passphrase cache (restricted).
+Nov 07 18:06:53 gmum-gw systemd[1815630]: Listening on GnuPG cryptographic agent (ssh-agent emulation).
+Nov 07 18:06:53 gmum-gw systemd[1815630]: Listening on GnuPG cryptographic agent and passphrase cache.
+Nov 07 18:06:53 gmum-gw systemd[1815630]: Listening on debconf communication socket.
+Nov 07 18:06:53 gmum-gw systemd[1815630]: Listening on D-Bus User Message Bus Socket.
+Nov 07 18:06:53 gmum-gw systemd[1815630]: Reached target Sockets.
+Nov 07 18:06:53 gmum-gw systemd[1815630]: Reached target Basic System.
+Nov 07 18:06:53 gmum-gw systemd[1815630]: Reached target Main User Target.
+Nov 07 18:06:53 gmum-gw systemd[1815630]: Startup finished in 109ms.
+Nov 07 18:20:09 gmum-gw systemd[1815630]: run-user-44052.mount: Succeeded.
+Nov 07 18:21:26 gmum-gw systemd[1815630]: run-user-43840.mount: Succeeded.
+Nov 07 19:04:56 gmum-gw systemd[1815630]: run-user-749.mount: Succeeded.
+Nov 07 19:06:57 gmum-gw systemd[1815630]: run-user-749.mount: Succeeded.
+Nov 07 19:12:10 gmum-gw systemd[1815630]: run-user-749.mount: Succeeded.
+Nov 07 19:13:46 gmum-gw systemd[1815630]: run-user-749.mount: Succeeded.
+Nov 07 19:16:29 gmum-gw systemd[1815630]: run-user-749.mount: Succeeded.
+Nov 07 19:27:17 gmum-gw systemd[1815630]: run-user-749.mount: Succeeded.
+Nov 07 19:44:38 gmum-gw sshd[1963956]: Received disconnect from 10.249.3.22 port 54673:11: disconnected by user
+Nov 07 19:44:38 gmum-gw sshd[1963956]: Disconnected from user z1173028 10.249.3.22 port 54673
+Nov 07 20:19:17 gmum-gw systemd[1815630]: run-user-749.mount: Succeeded.
+Nov 07 20:22:35 gmum-gw systemd[1815630]: Stopped target Main User Target.
+Nov 07 20:22:35 gmum-gw systemd[1815630]: Stopped target Basic System.
+Nov 07 20:22:35 gmum-gw systemd[1815630]: Stopped target Paths.
+Nov 07 20:22:35 gmum-gw systemd[1815630]: Stopped target Sockets.
+Nov 07 20:22:35 gmum-gw systemd[1815630]: Stopped target Timers.
+Nov 07 20:22:35 gmum-gw systemd[1815630]: dbus.socket: Succeeded.
+Nov 07 20:22:35 gmum-gw systemd[1815630]: Closed D-Bus User Message Bus Socket.
+Nov 07 20:22:35 gmum-gw systemd[1815630]: dirmngr.socket: Succeeded.
+Nov 07 20:22:35 gmum-gw systemd[1815630]: Closed GnuPG network certificate management daemon.
+Nov 07 20:22:35 gmum-gw systemd[1815630]: gpg-agent-browser.socket: Succeeded.
+Nov 07 20:22:35 gmum-gw systemd[1815630]: Closed GnuPG cryptographic agent and passphrase cache (access for web browsers).
+Nov 07 20:22:35 gmum-gw systemd[1815630]: gpg-agent-extra.socket: Succeeded.
+Nov 07 20:22:35 gmum-gw systemd[1815630]: Closed GnuPG cryptographic agent and passphrase cache (restricted).
+Nov 07 20:22:35 gmum-gw systemd[1815630]: gpg-agent-ssh.socket: Succeeded.
+Nov 07 20:22:35 gmum-gw systemd[1815630]: Closed GnuPG cryptographic agent (ssh-agent emulation).
+Nov 07 20:22:35 gmum-gw systemd[1815630]: gpg-agent.socket: Succeeded.
+Nov 07 20:22:35 gmum-gw systemd[1815630]: Closed GnuPG cryptographic agent and passphrase cache.
+Nov 07 20:22:35 gmum-gw systemd[1815630]: pk-debconf-helper.socket: Succeeded.
+Nov 07 20:22:35 gmum-gw systemd[1815630]: Closed debconf communication socket.
+Nov 07 20:22:35 gmum-gw systemd[1815630]: Reached target Shutdown.
+Nov 07 20:22:35 gmum-gw systemd[1815630]: systemd-exit.service: Succeeded.
+Nov 07 20:22:35 gmum-gw systemd[1815630]: Finished Exit the Session.
+Nov 07 20:22:35 gmum-gw systemd[1815630]: Reached target Exit the Session.
+Nov 07 21:49:32 gmum-gw systemd[2192713]: Reached target Paths.
+Nov 07 21:49:32 gmum-gw systemd[2192713]: Reached target Timers.
+Nov 07 21:49:32 gmum-gw systemd[2192713]: Starting D-Bus User Message Bus Socket.
